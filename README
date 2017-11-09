@@ -1,0 +1,12 @@
+The backend is in the form of Django, and is fully uploaded for visualizing
+the algorithm used to push data to users.
+
+However, most of the frontend code is redacted. The main App.js file is 
+available though, but it uses custom dependencies created by me which I'm 
+ready to publicly release yet.
+
+Download the app for iOS here:
+https://itunes.apple.com/us/app/bruinexpress-ucla/id1291615908?ls=1&mt=8
+
+Download the app for Android here:
+https://play.google.com/store/apps/details?id=com.SimplexStuff.UCLABruinExpress
