@@ -7,7 +7,7 @@ the algorithm used to push data to users.
 
 However, most of the frontend code is redacted. The main App.js file is 
 available though, but it uses custom dependencies created by me which I'm 
-ready to publicly release yet.
+not ready to publicly release yet.
 
 Download the app for iOS here:
 https://itunes.apple.com/us/app/bruinexpress-ucla/id1291615908?ls=1&mt=8
